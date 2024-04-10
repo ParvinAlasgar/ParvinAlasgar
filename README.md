@@ -114,11 +114,11 @@
 </h3>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeronemperor&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="ParvinAlasgar" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParvinAlasgar&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="ParvinAlasgar" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=zeronemperor&show_icons=true&locale=en&theme=gruvbox" alt="ParvinAlasgar" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ParvinAlasgar&show_icons=true&locale=en&theme=gruvbox" alt="ParvinAlasgar" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
