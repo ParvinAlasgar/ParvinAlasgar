@@ -122,9 +122,9 @@
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeronemperor&theme=gruvbox" alt="ParvinAlasgar" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParvinAlasgar&theme=gruvbox" alt="ParvinAlasgar" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="zeronemperor" />
+    <img src="./assets/sunrise.jpeg?sanitize=true" alt="ParvinAlasgar" />
 </p>
