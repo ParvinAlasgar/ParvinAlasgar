@@ -11,12 +11,12 @@
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
-    <img src="https://komarev.com/ghpvc/?username=zeronemperor&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ParvinAlasgar&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=zeronemperor&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ParvinAlasgar&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
 </p>
 
